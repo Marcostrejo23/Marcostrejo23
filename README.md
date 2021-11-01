@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Marcos  👋
 
+## I am a full stack developer looking to grow in the industry. 
 <!--
 **Marcostrejo23/Marcostrejo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
