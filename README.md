@@ -1,4 +1,4 @@
-### Hi there, I'm Marcos  👋
+# Hi there, I'm Marcos  👋
 
 ## I am a full stack developer looking to grow in the industry. 
 
